@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class QuanteCifre_01 {
     public static void main(String[] args) {
         Scanner inp = new Scanner(System.in);
-        int num,pari=0,dispari=0,buffer;
+        int num;
         String numero;
         System.out.println("inserire un numero");
         num= inp.nextInt();
