@@ -1,1 +1,8 @@
+site_name : Barascu_Umberto
 
+nav: 
+
+  - 'MD' : 'index.md'
+  - 'Test' : 'test.txt'
+theme:
+  name: readthedocs
