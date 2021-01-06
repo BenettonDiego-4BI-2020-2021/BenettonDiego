@@ -5,8 +5,7 @@ import java.util.Scanner;
 public class Asta_01 {
 
     public static void main(String[] args) {
-        Scanner inp = new Scanner(System.in);
-        
+        Scanner inp = new Scanner(System.in);      
         int contendente1, contendente2;
         System.out.print("contendente 1: ");
         contendente1 = inp.nextInt();
